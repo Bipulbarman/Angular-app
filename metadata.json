@@ -1,0 +1,7 @@
+{
+  "name": "AI Voice Assistant",
+  "description": "A smart voice assistant powered by Gemini. Manage your to-do lists, notes, and reminders with just your voice. Features real-time transcription and a clean, modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

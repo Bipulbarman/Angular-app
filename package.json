@@ -1,0 +1,7 @@
+"scripts": {
+  "ng": "ng",
+  "start": "ng serve",
+  "build": "ng build",  <-- **This is the key line**
+  "test": "ng test",
+  "lint": "ng lint"
+}

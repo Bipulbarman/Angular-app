@@ -1,7 +1,7 @@
 "scripts": {
-  "ng": "ng",
-  "start": "ng serve",
-  "build": "ng build",  <-- **This is the key line**
-  "test": "ng test",
-  "lint": "ng lint"
+  "start": "vite",
+  "build": "vite build",
+  "start": "parcel index.html",
+  "build": "parcel build index.html",
+  "preview": "vite preview"
 }

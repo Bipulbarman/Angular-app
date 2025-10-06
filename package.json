@@ -1,7 +1,6 @@
 "scripts": {
-  "start": "vite",
-  "build": "vite build",
-  "start": "parcel index.html",
-  "build": "parcel build index.html",
-  "preview": "vite preview"
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
 }
